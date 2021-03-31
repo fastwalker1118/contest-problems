@@ -1,6 +1,3 @@
-// cccgrader is trash, haven't tested this before. But it has O(n) level time complexity, so I guess it would work:)  
-// I AM GONNA GET A GF!!!!!
-
 import java.util.*;
 
 public class main {
